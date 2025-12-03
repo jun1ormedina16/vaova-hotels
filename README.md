@@ -16,7 +16,7 @@ Aplicación web para gestionar hoteles y reservas, creada como proyecto de prueb
 
 ## 🚀 Instalación
 
-1. Clonar el repositorio:
+1- Clonar el repositorio:
 
 bash
 git clone https://github.com/jun1ormedina16/vaova-hotels.git
@@ -29,3 +29,8 @@ npm install
 3- Ejecutar localmente
 
 npm run dev
+
+4- Agradecimientos
+
+Gracias por revisar el codigo :D
+
